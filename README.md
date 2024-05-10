@@ -3,7 +3,7 @@
 This project includes two analyses: Social Media Usage Analysis and Music Popularity Prediction. Each analysis focuses on different datasets and objectives.
 
 ## Files
-- `Data+Analysis.ipynb`: Jupyter notebook containing the code and analysis for the Social Media Usage Analysis and music popularity prediction.
+- `Data-Analysis.ipynb`: Jupyter notebook containing the code and analysis for the Social Media Usage Analysis and music popularity prediction.
 - `syp-16-data.csv`: Dataset used for the Social Media Usage Analysis.
 - `music.csv`: Dataset used for the Music Popularity Prediction.
 
