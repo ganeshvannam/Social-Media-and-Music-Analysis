@@ -1,4 +1,4 @@
-# Social-Media-and-Music-Analysis
+# Social-Media-and-Music-Popularity Prediction
 ## Overview
 This project includes two analyses: Social Media Usage Analysis and Music Popularity Prediction. Each analysis focuses on different datasets and objectives.
 
